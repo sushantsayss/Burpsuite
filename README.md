@@ -1,5 +1,6 @@
 # Burpsuite
 Burp Suite works as an intercepting proxy, allowing a security tester to capture, inspect, modify, and forward HTTP/HTTPS requests and responses between a browser and a web server.
+
 Step 1 sudo apt install openjdk-21-jdk -y
 
 Step 2 java -version
